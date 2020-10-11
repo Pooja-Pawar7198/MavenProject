@@ -20,7 +20,7 @@ It contain the customer or user and admin login. This system provides informatio
 - Hibernate *(ORM tool)*
 - MySql *(MySql Database has been used as database for the project)*
 - HTML *(Page layout has been designed in HTML)*
-- CSS *(Css has been used for all designing parts)
+- CSS *(Css has been used for all designing parts)*
 - JSP *(All the frontend logic written in JSP)*
 - JSTL tags *(JSTL tags used in JSP)*
 - Bootstrap *(Bootstrap used for REgistration and Login page)*
