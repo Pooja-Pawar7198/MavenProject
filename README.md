@@ -27,6 +27,12 @@ It contain the customer or user and admin login. This system provides informatio
 - junit Testing *(Unit Testing is done using junit)*
 - Tomcat *(Project will be run locally over the tomcat server)*
 
+## Requirements
+For building and running the application you need:
+- JDK 1.8
+- Eclipse
+- MySql
+
 ## Static Pages and other Sections
 - Home Page with Good UI
 - Home page will contain an javascript images annimation.
