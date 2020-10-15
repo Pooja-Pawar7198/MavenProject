@@ -2,18 +2,22 @@
 # Cake Shop
 
 A Cake Shop Website built with Spring Framework , JSP, Hibernate, MySql.
-It contain the customer or user and admin login. This system provides information about  cake, category etc. In this Cake shop website after the login customer can be able to place the order.Customer can view all cake related information, order history , confirm order. Also in this project after the login Admin can be able to add the cake related information also admin can view all orders and admin can able to add cakes shop on different locations.
+It contains the customer or user and admin login. This system provides information about the cakes like its name,category,price and weight. In this Cake shop website after the login, customer can able to place the order, view all cake related information, order history and confirm the order. 
+In this website after the  admin login, Admin can able to add cake related information, view all orders and also can able to add cake shops on different locations.
+
+
+
 
 ## Functionality Performed by Customer
 - Customer Registration: Any customer can register on website using the registration form.
-- Customer Login: This is login form, from where customer can login into the system.
+- Customer Login: Using login form, from where customer can login into the system.
 - Customer operations: customer can view all cakes category and order them and also receive confirmation message of successful order.
 
 ## Functionality performed by Admin
-- Admin Registration: Admin can register on website using the registration form.
-- Admin Login: This is login form, from where customer can login into the system.
+- Admin Registration: Admin should first register on website using the registration form.
+- Admin Login: Using login form, admin can login into the system.
 - Admin operations: Only Admin can perform Add/Update/Delete/get List of cakes & manage Orders.
-- Admin operations: only admin can perform Add and delete branches of cake shops and also get list of cakes Shops.
+- Admin operations: Only admin can perform Add and delete branches of cake shops and also get list of cake Shops.
 
 ## Technology used in project (Cake Shop Website)
 - Spring framework *(Backend)*
@@ -23,7 +27,7 @@ It contain the customer or user and admin login. This system provides informatio
 - CSS *(Css has been used for all designing parts)*
 - JSP *(All the frontend logic written in JSP)*
 - JSTL tags *(JSTL tags used in JSP)*
-- Bootstrap *(Bootstrap used for REgistration and Login page)*
+- Bootstrap *(Bootstrap used for Registration and Login page)*
 - junit Testing *(Unit Testing is done using junit)*
 - Tomcat *(Project will be run locally over the tomcat server)*
 
@@ -40,3 +44,4 @@ For building and running the application you need:
 - About us page will be available which will describe about the project
 - My Products gallery page.
 
+## Screenshots
